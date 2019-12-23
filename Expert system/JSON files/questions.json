@@ -1,0 +1,234 @@
+[
+  {
+    "QuestionId": 3,
+    "QuestionValue": "你当前拥有的配料（荤）？",
+    "Answers": [
+      {
+        "AnswerValue": "鸡肉",
+        "AnswerId": 1
+      },
+      {
+        "AnswerValue": "猪肉",
+        "AnswerId": 2
+      },
+      {
+        "AnswerValue": "鱼",
+        "AnswerId": 3
+      },
+      {
+        "AnswerValue": "鱼翅",
+        "AnswerId": 4
+      },
+      {
+        "AnswerValue": "虾",
+        "AnswerId": 5
+      },
+      {
+        "AnswerValue": "海螺",
+        "AnswerId": 6
+      },
+      {
+        "AnswerValue": "火腿",
+        "AnswerId": 7
+      },
+      {
+        "AnswerValue": "马蹄",
+        "AnswerId": 8
+      },
+      {
+        "AnswerValue": "鸭肉",
+        "AnswerId": 9
+      },
+      {
+        "AnswerValue": "鸡蛋",
+        "AnswerId": 10
+      },
+      {
+        "AnswerValue": "以上都无",
+        "AnswerId": 11
+      }
+    ]
+  },
+  {
+    "QuestionId": 4,
+    "QuestionValue": "你拥有的配料（素）？",
+    "Answers": [
+      {
+        "AnswerValue": "豌豆",
+        "AnswerId": 1
+      },
+      {
+        "AnswerValue": "香菇",
+        "AnswerId": 2
+      },
+      {
+        "AnswerValue": "糯米",
+        "AnswerId": 3
+      },
+      {
+        "AnswerValue": "白菜",
+        "AnswerId": 4
+      },
+      {
+        "AnswerValue": "红萝卜",
+        "AnswerId": 5
+      },
+      {
+        "AnswerValue": "白萝卜",
+        "AnswerId": 6
+      },
+      {
+        "AnswerValue": "香菜",
+        "AnswerId": 7
+      },
+      {
+        "AnswerValue": "冬瓜",
+        "AnswerId": 8
+      },
+      {
+        "AnswerValue": "番茄",
+        "AnswerId": 9
+      },
+      {
+        "AnswerValue": "油菜",
+        "AnswerId": 10
+      },
+      {
+        "AnswerValue": "茶叶",
+        "AnswerId": 11
+      },
+      {
+        "AnswerValue": "榨菜",
+        "AnswerId": 12
+      },
+      {
+        "AnswerValue": "笋",
+        "AnswerId": 13
+      },
+      {
+        "AnswerValue": "木耳",
+        "AnswerId": 14
+      },
+      {
+        "AnswerValue": "辣椒",
+        "AnswerId": 15
+      },
+      {
+        "AnswerValue": "花生",
+        "AnswerId": 16
+      },
+      {
+        "AnswerValue": "以上都无",
+        "AnswerId": 17
+      }
+    ]
+  },
+  {
+    "QuestionId": 5,
+    "QuestionValue": "你拥有的调料（固）？",
+    "Answers": [
+      {
+        "AnswerValue": "白糖",
+        "AnswerId": 1
+      },
+      {
+        "AnswerValue": "葱",
+        "AnswerId": 2
+      },
+      {
+        "AnswerValue": "姜",
+        "AnswerId": 3
+      },
+      {
+        "AnswerValue": "盐",
+        "AnswerId": 4
+      },
+      {
+        "AnswerValue": "八角",
+        "AnswerId": 5
+      },
+      {
+        "AnswerValue": "淀粉",
+        "AnswerId": 6
+      },
+      {
+        "AnswerValue": "面粉",
+        "AnswerId": 7
+      },
+      {
+        "AnswerValue": "胡椒",
+        "AnswerId": 8
+      },
+      {
+        "AnswerValue": "花椒",
+        "AnswerId": 9
+      },
+      {
+        "AnswerValue": "味精",
+        "AnswerId": 10
+      },
+      {
+        "AnswerValue": "鸡精",
+        "AnswerId": 11
+      },
+      {
+        "AnswerValue": "银杏",
+        "AnswerId": 12
+      },
+      {
+        "AnswerValue": "茴香",
+        "AnswerId": 13
+      },
+      {
+        "AnswerValue": "以上都无",
+        "AnswerId": 14
+      }
+    ]
+  },
+  {
+    "QuestionId": 6,
+    "QuestionValue": "你拥有的调料（液）？",
+    "Answers": [
+      {
+        "AnswerValue": "食用油",
+        "AnswerId": 1
+      },
+      {
+        "AnswerValue": "芝麻油",
+        "AnswerId": 2
+      },
+      {
+        "AnswerValue": "猪油",
+        "AnswerId": 3
+      },
+      {
+        "AnswerValue": "绍酒",
+        "AnswerId": 4
+      },
+      {
+        "AnswerValue": "酱油",
+        "AnswerId": 5
+      },
+      {
+        "AnswerValue": "生抽",
+        "AnswerId": 6
+      },
+      {
+        "AnswerValue": "料酒",
+        "AnswerId": 7
+      },
+      {
+        "AnswerValue": "花生油",
+        "AnswerId": 8
+      },
+      {
+        "AnswerValue": "色推油",
+        "AnswerId": 9
+      },
+      {
+        "AnswerValue": "以上都无",
+        "AnswerId": 10
+      }
+    ]
+  }
+]
